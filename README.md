@@ -1,7 +1,7 @@
 # V-Github-Icon :octocat:
 
 <p align="center">
-<a href="http://npmjs.org/package/v-github-icon"><img src="https://img.shields.io/npm/v/v-github-icon.svg" alt="npm version"></a> <a href="https://github.com/vinayakkulkarni/v-github-icon/releases"><img alt="GitHub release (latest by date including pre-releases)" src="https://img.shields.io/github/v/release/vinayakkulkarni/v-github-icon?include_prereleases"></a> <a href="https://bundlephobia.com/result?p=v-github-icon"><img alt="npm bundle size" src="https://img.shields.io/bundlephobia/minzip/v-github-icon"></a> <a href="http://npm-stat.com/charts.html?package=v-github-icon"><img src="https://img.shields.io/npm/dm/v-github-icon.svg" alt="npm downloads"></a> <a href="https://github.com/vinayakkulkarni/v-github-icon/actions?query=workflow%3A%22Ship+js+trigger%22"><img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/vinayakkulkarni/v-github-icon/Ship js trigger"></a> <a href="https://david-dm.org/vinayakkulkarni/v-github-icon?type=dev" title="devDependencies status"><img src="https://david-dm.org/vinayakkulkarni/v-github-icon/dev-status.svg"/></a>
+<a href="https://github.com/algolia/shipjs"><img src="https://img.shields.io/badge/deploy-🛳%20Ship.js-blue?style=flat" alt="deploy via ship.js" /></a> <a href="https://npmjs.org/package/v-github-icon"><img src="https://img.shields.io/npm/v/v-github-icon.svg" alt="npm version"></a> <a href="https://github.com/vinayakkulkarni/v-github-icon/releases"><img alt="GitHub release (latest by date including pre-releases)" src="https://img.shields.io/github/v/release/vinayakkulkarni/v-github-icon?include_prereleases"></a> <a href="https://bundlephobia.com/result?p=v-github-icon"><img alt="npm bundle size" src="https://img.shields.io/bundlephobia/minzip/v-github-icon"></a> <a href="https://npm-stat.com/charts.html?package=v-github-icon"><img src="https://img.shields.io/npm/dm/v-github-icon.svg" alt="npm downloads"></a> <a href="https://github.com/vinayakkulkarni/v-github-icon/actions?query=workflow%3A%22Ship+js+trigger%22"><img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/vinayakkulkarni/v-github-icon/Ship js trigger"></a> <a href="https://david-dm.org/vinayakkulkarni/v-github-icon?type=dev" title="devDependencies status"><img src="https://david-dm.org/vinayakkulkarni/v-github-icon/dev-status.svg"/></a>
 </p>
 
 ---
@@ -10,7 +10,7 @@
 
 * This is [on GitHub](https://github.com/vinayakkulkarni/v-github-icon) so let me know if I've b0rked it somewhere, give me a star :star: if you like it :beers:
 
-* Demo here -> [💯 Codesandbox Link](http://bit.ly/v-github-icon)
+* Demo here -> [💯 Codesandbox Link](https://bit.ly/v-github-icon)
 
 ## Requirements
 

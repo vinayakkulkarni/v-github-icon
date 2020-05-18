@@ -12,9 +12,7 @@
     "url": "https://vinayakkulkarni.dev"
   },
   "license": "MIT",
-  "files": [
-    "dist"
-  ],
+  "files": ["dist"],
   "scripts": {
     "test": "ava",
     "test:snapshot": "ava --update-snapshots",
@@ -23,10 +21,10 @@
     "bundle:min": "rollup -c build/rollup.min.config.js",
     "lint": "eslint 'src/**/*.{js,vue}'",
     "lintfix": "eslint --fix 'src/**/*.{js,vue}'",
-    "release:prepare": "shipjs prepare",
-    "release:trigger": "shipjs trigger",
     "storybook": "start-storybook",
-    "deploy-storybook": "storybook-to-ghpages"
+    "deploy-storybook": "storybook-to-ghpages",
+    "release:prepare": "shipjs prepare",
+    "release:trigger": "shipjs trigger"
   },
   "dependencies": {
     "@vue/composition-api": "^0.5.0"
@@ -68,12 +66,7 @@
     "vue-loader": "^15.9.2",
     "vue-template-compiler": "^2.6.11"
   },
-  "keywords": [
-    "GitHub Icon",
-    "v-github-icon",
-    "git icon",
-    "vue component"
-  ],
+  "keywords": ["GitHub Icon", "v-github-icon", "git icon", "vue component"],
   "bugs": {
     "url": "https://github.com/vinayakkulkarni/v-github-icon/issues"
   },

@@ -11,9 +11,17 @@ jobs:
       - uses: actions/checkout@v2
         with:
           ref: master
+          
       - uses: actions/setup-node@v1
-      - run: npm install
-      - run: npm run test
+        with:
+          registry-url: "https://registry.npmjs.org"
+      - run: |
+          if [ -f "yarn.lock" ]; then
+            yarn install
+          else
+            npm install
+          fi
+      
       - run: npm run release:trigger
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

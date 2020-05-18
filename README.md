@@ -98,7 +98,7 @@ Vue.component('example-component', {
 | Name            | Type   | Required? | Description                                                 |
 | --------------  | ------ | --------- | ----------------------------------------------------------- |
 | `url`     | String | Yes        | The URL link to GitHub project repository    |
-| `position` | String | No        | Position of the icon, either `'top-left'` or `'top-right'` |
+| `position` | String | No        | Position of the icon, `'top-left'` or `'top-right'` |
 | `bg-color` | String | No        | Color of the octocat |
 | `fill-color` | String | No        | Color excluding the octocat |
 

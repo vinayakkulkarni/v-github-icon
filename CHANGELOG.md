@@ -1,3 +1,13 @@
+<a name="1.2.0"></a>
+# 1.2.0 (2020-05-18)
+
+
+### Features
+
+* add shipjs manual prepare ([a4f5546](https://github.com/vinayakkulkarni/v-github-icon/commit/a4f5546))
+
+
+
 <a name="1.1.1"></a>
 ## 1.1.1 (2020-05-18)
 

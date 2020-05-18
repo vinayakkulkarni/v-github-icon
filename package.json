@@ -1,6 +1,6 @@
 {
   "name": "v-github-icon",
-  "version": "1.1.1",
+  "version": "1.2.0",
   "description": "Vue + GitHub Icon ❤️",
   "repository": {
     "url": "git+https://github.com/vinayakkulkarni/v-github-icon",
@@ -12,7 +12,9 @@
     "url": "https://vinayakkulkarni.dev"
   },
   "license": "MIT",
-  "files": ["dist"],
+  "files": [
+    "dist"
+  ],
   "scripts": {
     "test": "ava",
     "test:snapshot": "ava --update-snapshots",
@@ -66,7 +68,12 @@
     "vue-loader": "^15.9.2",
     "vue-template-compiler": "^2.6.11"
   },
-  "keywords": ["GitHub Icon", "v-github-icon", "git icon", "vue component"],
+  "keywords": [
+    "GitHub Icon",
+    "v-github-icon",
+    "git icon",
+    "vue component"
+  ],
   "bugs": {
     "url": "https://github.com/vinayakkulkarni/v-github-icon/issues"
   },

@@ -39,7 +39,7 @@
     "@commitlint/config-conventional": "^9.0.1",
     "@rollup/plugin-commonjs": "^14.0.0",
     "@storybook/storybook-deployer": "^2.8.6",
-    "@storybook/vue": "^5.3.18",
+    "@storybook/vue": "^6.0.2",
     "@vue/test-utils": "^1.0.3",
     "ava": "^3.8.2",
     "babel-eslint": "^10.1.0",

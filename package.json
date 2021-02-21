@@ -24,7 +24,6 @@
     "lint": "eslint 'src/**/*.{js,vue}'",
     "lintfix": "eslint --fix 'src/**/*.{js,vue}'",
     "storybook": "start-storybook",
-    "deploy-storybook": "storybook-to-ghpages",
     "release:prepare": "shipjs prepare",
     "release:trigger": "shipjs trigger"
   },

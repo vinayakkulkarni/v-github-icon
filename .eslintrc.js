@@ -6,16 +6,20 @@ module.exports = {
     node: true,
   },
   parserOptions: {
-    parser: 'babel-eslint',
+    parser: '@typescript-eslint/parser',
+    ecmaVersion: 2020,
+    sourceType: 'module',
+    lib: ['es2020'],
+    extraFileExtensions: ['.vue'],
   },
+  // required to lint *.vue files
+  plugins: ['vue', 'prettier'],
   extends: [
     'plugin:vue/recommended',
     'plugin:prettier/recommended',
     'prettier',
     'prettier/vue',
   ],
-  // required to lint *.vue files
-  plugins: ['vue', 'prettier'],
   // add your custom rules here
   rules: {
     'no-console': process.env.NODE_ENV === 'production' ? 'error' : 'off',

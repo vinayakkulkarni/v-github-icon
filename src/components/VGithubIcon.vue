@@ -63,28 +63,27 @@
 
 <script lang="ts">
   import { defineComponent } from '@vue/composition-api';
-  import type { PropType } from '@vue/composition-api';
 
   export default defineComponent({
     name: 'VGithubIcon',
     props: {
       url: {
-        type: String as PropType<string>,
+        type: String,
         required: true,
         default: '',
       },
       position: {
-        type: String as PropType<string>,
+        type: String,
         required: false,
         default: 'top-right',
       },
       bgColor: {
-        type: String as PropType<string>,
+        type: String,
         required: false,
         default: '#FFFFFF',
       },
       fillColor: {
-        type: String as PropType<string>,
+        type: String,
         required: false,
         default: '#151513',
       },

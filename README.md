@@ -22,10 +22,10 @@
 
 ## Features
 
-* Detect offline & online events for your vue app.
+* GitHub corners made easy!
 * Built from scratch usign Vue 2 & Composition API with TypeScript
-* For Vue 2.x version – `npm i v-github-icon@2`
-* For Vue 3.x version – `npm i v-github-icon@3`
+* For Vue 2.x version – `npm i v-github-icon@latest`
+* For Vue 3.x version – `npm i v-github-icon@next`
 
 
 ## Table of Contents

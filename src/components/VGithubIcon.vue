@@ -63,27 +63,28 @@
 
 <script lang="ts">
   import { defineComponent } from '@vue/composition-api';
+  import type { PropType } from '@vue/composition-api';
 
   export default defineComponent({
     name: 'VGithubIcon',
     props: {
       url: {
-        type: String,
+        type: String as PropType<string>,
         required: true,
         default: '',
       },
       position: {
-        type: String,
+        type: String as PropType<string>,
         required: false,
         default: 'top-right',
       },
       bgColor: {
-        type: String,
+        type: String as PropType<string>,
         required: false,
         default: '#FFFFFF',
       },
       fillColor: {
-        type: String,
+        type: String as PropType<string>,
         required: false,
         default: '#151513',
       },
@@ -110,11 +111,11 @@
     }
   }
   @media (max-width: 500px) {
-    .github-corner:hover .octo-arm {
-      animation: none;
-    }
     .github-corner .octo-arm {
       animation: octocat-wave 560ms ease-in-out;
+    }
+    .github-corner:hover .octo-arm {
+      animation: none;
     }
   }
 </style>

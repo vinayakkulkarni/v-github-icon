@@ -1,28 +1,81 @@
-# V-Github-Icon :octocat:
+# v-github-icon :octocat:
 
-<p align="center">
-<a href="https://github.com/algolia/shipjs"><img src="https://img.shields.io/badge/deploy-🛳%20Ship.js-blue?style=flat" alt="deploy via ship.js" /></a> <a href="https://npmjs.org/package/v-github-icon"><img src="https://img.shields.io/npm/v/v-github-icon.svg" alt="npm version"></a> <a href="https://github.com/vinayakkulkarni/v-github-icon/releases"><img alt="GitHub release (latest by date including pre-releases)" src="https://img.shields.io/github/v/release/vinayakkulkarni/v-github-icon?include_prereleases"></a> <a href="https://bundlephobia.com/result?p=v-github-icon"><img alt="npm bundle size" src="https://img.shields.io/bundlephobia/minzip/v-github-icon"></a> <a href="https://npm-stat.com/charts.html?package=v-github-icon"><img src="https://img.shields.io/npm/dm/v-github-icon.svg" alt="npm downloads"></a> <a href="https://github.com/vinayakkulkarni/v-github-icon/actions?query=workflow%3A%22Ship+js+trigger%22"><img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/vinayakkulkarni/v-github-icon/Ship js trigger"></a> <a href="https://david-dm.org/vinayakkulkarni/v-github-icon?type=dev" title="devDependencies status"><img src="https://david-dm.org/vinayakkulkarni/v-github-icon/dev-status.svg"/></a>
-</p>
+[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/vinayakkulkarni/v-github-icon/ci?logo=github-actions)](https://github.com/vinayakkulkarni/v-github-icon/actions/workflows/ci.yml)
+[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/vinayakkulkarni/v-github-icon/Ship%20js%20trigger?label=⛴%20Ship.js%20trigger)](https://github.com/vinayakkulkarni/v-github-icon/actions/workflows/shipjs-trigger.yml)
+[![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/vinayakkulkarni/v-github-icon?sort=semver&logo=github)](https://github.com/vinayakkulkarni/v-github-icon/releases)
+[![npm](https://img.shields.io/npm/v/v-github-icon?logo=npm)](https://www.npmjs.com/package/v-github-icon)
+[![npm](https://img.shields.io/npm/dm/v-github-icon?logo=npm)](http://npm-stat.com/charts.html?package=v-github-icon)
+[![npm bundle size (version)](https://img.shields.io/bundlephobia/min/v-github-icon/latest)](https://bundlephobia.com/package/v-github-icon@latest)
+[![npm type definitions](https://img.shields.io/npm/types/v-github-icon)](https://github.com/vinayakkulkarni/v-github-icon/blob/master/package.json)
+[![DeepScan grade](https://deepscan.io/api/teams/9055/projects/18487/branches/453975/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=9055&pid=18487&bid=453975)
+[![Snyk Vulnerabilities for GitHub Repo](https://img.shields.io/snyk/vulnerabilities/github/vinayakkulkarni/v-github-icon)](https://snyk.io/test/github/vinayakkulkarni/v-github-icon)
+[![Total alerts](https://img.shields.io/lgtm/alerts/g/vinayakkulkarni/v-github-icon.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/vinayakkulkarni/v-github-icon/alerts/)
+[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/vinayakkulkarni/v-github-icon.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/vinayakkulkarni/v-github-icon/context:javascript)
+[![GitHub contributors](https://img.shields.io/github/contributors/vinayakkulkarni/v-github-icon)](https://github.com/vinayakkulkarni/v-github-icon/graphs/contributors)
 
----
+[![built using janak](https://img.shields.io/badge/built%20using-janak-brightgreen)](https://github.com/vinayakkulkarni/janak)
+[![eslint](https://img.shields.io/npm/dependency-version/v-github-icon/dev/eslint?logo=eslint)](https://eslint.org/)
+[![prettier](https://img.shields.io/npm/dependency-version/v-github-icon/dev/prettier?logo=prettier)](https://prettier.io/)
+[![rollup](https://img.shields.io/npm/dependency-version/v-github-icon/dev/rollup?logo=rollup.js)](https://rollupjs.org/guide/en/)
+[![vue](https://img.shields.io/npm/dependency-version/v-github-icon/dev/vue?logo=vue.js)](https://vuejs.org/)
+[![typescript](https://img.shields.io/npm/dependency-version/v-github-icon/dev/typescript?logo=TypeScript)](https://www.typescriptlang.org/)
 
-* GitHub corners made easy!
+## Features
 
-* This is [on GitHub](https://github.com/vinayakkulkarni/v-github-icon) so let me know if I've b0rked it somewhere, give me a star :star: if you like it :beers:
+* Detect offline & online events for your vue app.
+* Built from scratch usign Vue 2 & Composition API with TypeScript
+* For Vue 2.x version – `npm i v-github-icon@2`
+* For Vue 3.x version – `npm i v-github-icon@3`
 
-* Demo here -> [💯 Codesandbox Link](https://bit.ly/v-github-icon)
+
+## Table of Contents
+
+- [v-github-icon :octocat:](#v-github-icon-octocat)
+  - [Features](#features)
+  - [Table of Contents](#table-of-contents)
+  - [Demo](#demo)
+  - [Requirements](#requirements)
+    - [Installation](#installation)
+    - [Build Setup](#build-setup)
+  - [Usage](#usage)
+    - [HTML](#html)
+    - [JS](#js)
+    - [HTML](#html-1)
+    - [JS](#js-1)
+  - [API](#api)
+    - [Props](#props)
+  - [Built with](#built-with)
+  - [Contributing](#contributing)
+  - [Author](#author)
+
+## Demo
+
+[![Edit v-github-icon demo](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/v-github-icon-demo-8itb1?fontsize=14&hidenavigation=1&theme=dark)
 
 ## Requirements
 
-* [Vue.js](https://vuejs.org/) 2.x & [Composition API](https://composition-api.vuejs.org/)
+* [vue](https://vuejs.org/) `^2.x`
+* [@vue/composition-api](https://v3.vuejs.org/guide/composition-api-introduction.html) `^1.x`
 
-## Installation
+### Installation
 
-```bash
-npm i v-github-icon # yarn add v-github-icon
+```sh
+npm install --save v-github-icon
+npm install --save-dev @vue/composition-api
 ```
 
-CDN: [UNPKG](https://unpkg.com/v-github-icon/dist/) | [jsDelivr](https://cdn.jsdelivr.net/npm/v-github-icon/dist/) (available as `window.VGithubIcon`)
+CDN: [UNPKG](https://unpkg.com/v-github-icon/dist/) | [jsDelivr](https://cdn.jsdelivr.net/npm/v-github-icon/dist/) (available as `window.VOffline`)
+
+### Build Setup
+
+``` bash
+# install dependencies
+$ npm ci
+
+# package the library
+$ npm run build
+```
+
 
 ## Usage
 
@@ -55,7 +108,7 @@ import VGithubIcon from 'v-github-icon';
 
 ### JS
 ```javascript
-import VGithubIcon from 'v-github-icon';
+import { VGithubIcon } from 'v-github-icon';
 
 Vue.component('example-component', {
   components: {
@@ -82,7 +135,7 @@ Vue.component('example-component', {
 ```
 ### JS
 ```javascript
-import VGithubIcon from 'v-github-icon';
+import { VGithubIcon } from 'v-github-icon';
 
 Vue.component('example-component', {
   components: {
@@ -93,6 +146,7 @@ Vue.component('example-component', {
 
 </details>
 
+## API
 ### Props
 
 | Name            | Type   | Required? | Description                                                 |
@@ -102,17 +156,28 @@ Vue.component('example-component', {
 | `bg-color` | String | No        | Color of the octocat |
 | `fill-color` | String | No        | Color excluding the octocat |
 
-## Contributing
+## Built with
 
-1.  Fork it!
-2.  Create your feature branch: `git checkout -b my-new-feature`
-3.  Commit your changes: `git commit -am 'Add some feature'`
-4.  Push to the branch: `git push origin my-new-feature`
-5.  Submit a pull request :D
+- [TypeScript](https://www.typescriptlang.org/).
+- [Vue 2](https://v3.vuejs.org)
+
+## Contributing 
+
+1. Fork it ( [https://github.com/vinayakkulkarni/v-github-icon/fork](https://github.com/vinayakkulkarni/v-github-icon/fork) )
+2. Create your feature branch (`git checkout -b feat/new-feature`)
+3. Commit your changes (`git commit -Sam 'feat: add feature'`)
+4. Push to the branch (`git push origin feat/new-feature`)
+5. Create a new [Pull Request](https://github.com/vinayakkulkarni/v-github-icon/compare)
+
+_Note_: 
+1. Please contribute using [GitHub Flow](https://guides.github.com/introduction/flow/)
+2. Commits & PRs will be allowed only if the commit messages & PR titles follow the [conventional commit standard](https://www.conventionalcommits.org/), _read more about it [here](https://github.com/conventional-changelog/commitlint/tree/master/%40commitlint/config-conventional#type-enum)_
+3. PS. Ensure your commits are signed. _[Read why](https://withblue.ink/2020/05/17/how-and-why-to-sign-git-commits.html)_
+
 
 ## Author
 
-**v-github-icon** © [Vinayak](https://github.com/vinayakkulkarni), Released under the [MIT](./LICENSE) License.<br>
+**v-github-icon** &copy; [Vinayak](https://vinayakkulkarni.dev), Released under the [MIT](./LICENSE) License.<br>
 Authored and maintained by Vinayak Kulkarni with help from contributors ([list](https://github.com/vinayakkulkarni/v-github-icon/contributors)).
 
-> [vinayakkulkarni.dev](https://vinayakkulkarni.dev) · GitHub [@vinayakkulkarni](https://github.com/vinayakkulkarni) · Twitter [@_vinayak_k](https://twitter.com/_vinayak_k)
+> [vinayakkulkarni.dev](https://vinayakkulkarni.dev) · GitHub [@vinayakkulkarni](https://github.com/vinayakkulkarni) · Twitter [@\_vinayak_k](https://twitter.com/_vinayak_k)

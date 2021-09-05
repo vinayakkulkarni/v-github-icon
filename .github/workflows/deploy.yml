@@ -22,7 +22,6 @@ jobs:
           registry-url: https://registry.npmjs.org
           cache: 'npm' 
 
-
       - name: Upgrade npm 🎉
         run: npm install -g npm@latest
 

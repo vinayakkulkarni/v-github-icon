@@ -110,11 +110,11 @@
     }
   }
   @media (max-width: 500px) {
-    .github-corner:hover .octo-arm {
-      animation: none;
-    }
     .github-corner .octo-arm {
       animation: octocat-wave 560ms ease-in-out;
+    }
+    .github-corner:hover .octo-arm {
+      animation: none;
     }
   }
 </style>

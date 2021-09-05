@@ -2,7 +2,19 @@
   "compilerOptions": {
     "target": "esnext",
     "module": "esnext",
+    "strict": true,
+    "jsx": "preserve",
+    "importHelpers": true,
     "moduleResolution": "node",
+    "skipLibCheck": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "sourceMap": true,
+    "allowJs": true,
+    "noEmit": true,
+    "resolveJsonModule": true,
+    "experimentalDecorators": true,
+    "baseUrl": ".",
     "outDir": "./dist",
     "lib": [
       "esnext",
@@ -11,24 +23,21 @@
       "scripthost",
       "esnext.asynciterable"
     ],
-    "esModuleInterop": true,
-    "allowJs": true,
-    "sourceMap": true,
-    "strict": true,
-    "noEmit": true,
-    "baseUrl": ".",
     "paths": {
       "~/*": ["./*"],
       "@/*": ["./src/*"]
     },
+    "types": [
+      "@types/node"
+    ]
   },
-  "types": ["@types/node"],
-  "files": [
-    "./src/index.js",
-    "./src/VGithubIcon.vue"
+  "include": [
+    "src",
+    "build",
+    "shims"
   ],
   "exclude": [
-    "dist",
-    "node_modules"
+    "node_modules",
+    "dist"
   ]
 }

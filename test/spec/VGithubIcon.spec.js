@@ -1,6 +1,6 @@
-import { mount, createLocalVue } from '@vue/test-utils';
+import VGithubIcon from '@/src/components/VGithubIcon.vue';
+import { createLocalVue, mount } from '@vue/test-utils';
 import test from 'ava';
-import VGithubIcon from '@/src/VGithubIcon.vue';
 
 let wrapper;
 const localVue = createLocalVue();

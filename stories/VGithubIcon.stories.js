@@ -1,4 +1,4 @@
-import VGithubIcon from './index';
+import { VGithubIcon } from '../src';
 
 export default { title: 'GitHub Icon' };
 

@@ -84,7 +84,7 @@
     "rollup-plugin-typescript2": "^0.30.0",
     "rollup-plugin-vue": "^6.0.0",
     "sass": "^1.39.0",
-    "shipjs": "^0.23.3",
+    "shipjs": "^0.24.0",
     "stylelint": "^13.13.1",
     "stylelint-config-prettier": "^8.0.2",
     "stylelint-config-standard": "^22.0.0",

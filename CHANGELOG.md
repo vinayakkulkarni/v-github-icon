@@ -1,3 +1,36 @@
+# [3.0.0](https://github.com/vinayakkulkarni/v-github-icon/compare/v1.3.0...v3.0.0) (2022-11-01)
+
+
+### Bug Fixes
+
+* add `\n` to editorconfig ([9cf3b9d](https://github.com/vinayakkulkarni/v-github-icon/commit/9cf3b9dad10ae3a79c44ea2a9577f88aa4fad24f))
+* **deps:** bump actions/checkout from 2 to 3 ([cdf32d5](https://github.com/vinayakkulkarni/v-github-icon/commit/cdf32d568981ed2339a02cc849331c81fae50c69))
+* **deps:** bump actions/setup-node from 2.4.0 to 2.4.1 ([57db747](https://github.com/vinayakkulkarni/v-github-icon/commit/57db7479ffffbb04493f27f119874668a080d7c4))
+* **deps:** bump actions/setup-node from 2.4.1 to 2.5.0 ([5b4bbc2](https://github.com/vinayakkulkarni/v-github-icon/commit/5b4bbc2bd7fba49fa8e0c854f9d08abbeb145d56))
+* **deps:** bump actions/setup-node from 2.5.0 to 2.5.1 ([0be0079](https://github.com/vinayakkulkarni/v-github-icon/commit/0be0079e194af9695c7459a7cdd243d4bd8f1fe5))
+* **deps:** bump actions/setup-node from 2.5.1 to 3 ([7a9c533](https://github.com/vinayakkulkarni/v-github-icon/commit/7a9c533b101d2dcc3d3e3b2d38ea3fb24f527314))
+* **deps:** bump ansi-regex from 4.1.0 to 5.0.1 ([dceb68d](https://github.com/vinayakkulkarni/v-github-icon/commit/dceb68d89c35c8bd85ee0e69efb7e16cc979d72d))
+* **deps:** bump ejs from 3.1.6 to 3.1.7 ([08b1e94](https://github.com/vinayakkulkarni/v-github-icon/commit/08b1e940c0e97452bd3b0df247dbbed018e94e4d))
+* **deps:** bump follow-redirects from 1.14.3 to 1.14.8 ([fae6b83](https://github.com/vinayakkulkarni/v-github-icon/commit/fae6b839d5e4596afd538e1099ce798ad2ecba67))
+* **deps:** bump minimist from 1.2.5 to 1.2.6 ([062a270](https://github.com/vinayakkulkarni/v-github-icon/commit/062a270b505f59af87182436ee357532ce3e0a6c))
+* **deps:** bump nanoid from 3.1.25 to 3.3.1 ([5623964](https://github.com/vinayakkulkarni/v-github-icon/commit/5623964f2213e6c62c0367d40ea0ed20cb7f57e4))
+* **deps:** bump node-fetch from 2.6.1 to 2.6.7 ([a160b74](https://github.com/vinayakkulkarni/v-github-icon/commit/a160b74e9428c46e680123da81a8d4a269f3520a))
+* **deps:** bump shell-quote from 1.7.2 to 1.7.3 ([c684488](https://github.com/vinayakkulkarni/v-github-icon/commit/c6844881967055f087bfce05052367a95c427235))
+* **deps:** bump trim-off-newlines from 1.0.1 to 1.0.3 ([afeb121](https://github.com/vinayakkulkarni/v-github-icon/commit/afeb1212a040f1b2e79c599c32212ef2609e4a93))
+* **deps:** bump wearerequired/lint-action from 1 to 2 ([b04ca65](https://github.com/vinayakkulkarni/v-github-icon/commit/b04ca65a98bbe1ddf4bf5151da70641ec35a748f))
+* husky upgrade to v8 🎉 ([3fd5e2e](https://github.com/vinayakkulkarni/v-github-icon/commit/3fd5e2e859a557e03fbb0f99e9ab483c065fd5ab))
+* remove `\n` newline ([4febe91](https://github.com/vinayakkulkarni/v-github-icon/commit/4febe91d531aa73199c88b062eee346cd9233dfc))
+* update deploy script ([772fff2](https://github.com/vinayakkulkarni/v-github-icon/commit/772fff20fa3c0ae16f120da3c9002fc2fc75bf71))
+* **vscode:** add support for VSCode ([fc11a98](https://github.com/vinayakkulkarni/v-github-icon/commit/fc11a98bfe34957739f7adf37d0925775a081953))
+
+
+### Features
+
+* add `.nvmrc` for node version ❤️ ([7a0324e](https://github.com/vinayakkulkarni/v-github-icon/commit/7a0324ef092a0cc1a91b698492700804e9a1853c))
+* use vite ⚡️ ([11f5f64](https://github.com/vinayakkulkarni/v-github-icon/commit/11f5f644b0490e63406421525788df6beb9c96e0))
+
+
+
 # [1.3.0](https://github.com/vinayakkulkarni/v-github-icon/compare/v1.2.0...v1.3.0) (2021-09-05)
 
 

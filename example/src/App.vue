@@ -44,3 +44,6 @@
     },
   });
 </script>
+<style>
+  @import 'v-github-icon/dist/v-github-icon.css';
+</style>

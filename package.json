@@ -12,6 +12,10 @@
     ".": {
       "import": "./dist/v-github-icon.js",
       "require": "./dist/v-github-icon.umd.cjs"
+    },
+    "./dist/v-github-icon.css": {
+      "import": "./dist/v-github-icon.css",
+      "require": "./dist/v-github-icon.css"
     }
   },
   "files": [

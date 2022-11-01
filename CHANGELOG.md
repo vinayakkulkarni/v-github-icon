@@ -1,3 +1,12 @@
+## [3.0.1](https://github.com/vinayakkulkarni/v-github-icon/compare/v3.0.0...v3.0.1) (2022-11-01)
+
+
+### Bug Fixes
+
+* css export ([25d905d](https://github.com/vinayakkulkarni/v-github-icon/commit/25d905dee3a2a6e048febc8bebb77a9556fec0c3))
+
+
+
 # [3.0.0](https://github.com/vinayakkulkarni/v-github-icon/compare/v1.3.0...v3.0.0) (2022-11-01)
 
 

@@ -1,3 +1,7 @@
+## [3.0.2](https://github.com/vinayakkulkarni/v-github-icon/compare/v3.0.1...v3.0.2) (2022-11-05)
+
+
+
 ## [3.0.1](https://github.com/vinayakkulkarni/v-github-icon/compare/v3.0.0...v3.0.1) (2022-11-01)
 
 

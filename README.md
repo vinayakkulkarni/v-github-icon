@@ -1,6 +1,7 @@
 # [v-github-icon](https://vinayakkulkarni.github.io/v-github-icon/) :octocat:
 
 [![GitHub Workflow Status](https://img.shields.io/github/workflow/status/vinayakkulkarni/v-github-icon/ci?logo=github-actions)](https://github.com/vinayakkulkarni/v-github-icon/actions/workflows/ci.yml)
+[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/vinayakkulkarni/v-github-icon/codeql?logo=github-actions)](https://github.com/vinayakkulkarni/v-github-icon/actions/workflows/codeql.yml)
 [![GitHub Workflow Status](https://img.shields.io/github/workflow/status/vinayakkulkarni/v-github-icon/Ship%20js%20trigger?label=⛴%20Ship.js%20trigger)](https://github.com/vinayakkulkarni/v-github-icon/actions/workflows/shipjs-trigger.yml)
 [![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/vinayakkulkarni/v-github-icon?sort=semver&logo=github)](https://github.com/vinayakkulkarni/v-github-icon/releases)
 [![npm](https://img.shields.io/npm/v/v-github-icon?logo=npm)](https://www.npmjs.com/package/v-github-icon)
@@ -9,8 +10,6 @@
 [![npm type definitions](https://img.shields.io/npm/types/v-github-icon?logo=TypeScript)](https://github.com/vinayakkulkarni/v-github-icon/blob/master/package.json)
 [![DeepScan grade](https://deepscan.io/api/teams/9055/projects/11604/branches/426884/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=9055&pid=11604&bid=426884)
 [![Snyk Vulnerabilities for GitHub Repo](https://img.shields.io/snyk/vulnerabilities/github/vinayakkulkarni/v-github-icon)](https://snyk.io/test/github/vinayakkulkarni/v-github-icon)
-[![LGTM Alerts](https://img.shields.io/lgtm/alerts/github/vinayakkulkarni/v-github-icon?logo=lgtm)](https://lgtm.com/projects/g/vinayakkulkarni/v-github-icon/alerts/)
-[![LGTM Grade](https://img.shields.io/lgtm/grade/javascript/github/vinayakkulkarni/v-github-icon?logo=lgtm)](https://lgtm.com/projects/g/vinayakkulkarni/v-github-icon/context:javascript)
 [![Codebeat](https://codebeat.co/badges/055e70c6-1d9c-4d11-9059-2b6960b84731)](https://codebeat.co/projects/github-com-vinayakkulkarni-v-github-icon-master)
 [![Netlify](https://img.shields.io/netlify/341e9f45-256e-4ad0-9f7f-b948b60f4e99?logo=netlify)](https://app.netlify.com/sites/v-github-icon/deploys)
 [![GitHub contributors](https://img.shields.io/github/contributors/vinayakkulkarni/v-github-icon)](https://github.com/vinayakkulkarni/v-github-icon/graphs/contributors)

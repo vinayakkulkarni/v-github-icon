@@ -33,7 +33,7 @@
     setup() {
       const state = ref({
         position: 'top-left',
-        url: 'https://github.com/vinayakkulkarni/v-pip',
+        url: 'https://github.com/vinayakkulkarni/v-github-icon',
         background: '#FFF',
         fill: '#111',
       });

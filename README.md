@@ -8,9 +8,8 @@
 [![npm](https://img.shields.io/npm/dm/v-github-icon?logo=npm)](http://npm-stat.com/charts.html?package=v-github-icon)
 [![npm bundle size (version)](https://img.shields.io/bundlephobia/min/v-github-icon/latest)](https://bundlephobia.com/package/v-github-icon@latest)
 [![npm type definitions](https://img.shields.io/npm/types/v-github-icon?logo=TypeScript)](https://github.com/vinayakkulkarni/v-github-icon/blob/master/package.json)
-[![DeepScan grade](https://deepscan.io/api/teams/9055/projects/11604/branches/426884/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=9055&pid=11604&bid=426884)
+[![DeepScan grade](https://deepscan.io/api/teams/9055/projects/18487/branches/453975/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=9055&pid=18487&bid=453975)
 [![Snyk Vulnerabilities for GitHub Repo](https://img.shields.io/snyk/vulnerabilities/github/vinayakkulkarni/v-github-icon)](https://snyk.io/test/github/vinayakkulkarni/v-github-icon)
-[![Codebeat](https://codebeat.co/badges/055e70c6-1d9c-4d11-9059-2b6960b84731)](https://codebeat.co/projects/github-com-vinayakkulkarni-v-github-icon-master)
 [![Netlify](https://img.shields.io/netlify/341e9f45-256e-4ad0-9f7f-b948b60f4e99?logo=netlify)](https://app.netlify.com/sites/v-github-icon/deploys)
 [![GitHub contributors](https://img.shields.io/github/contributors/vinayakkulkarni/v-github-icon)](https://github.com/vinayakkulkarni/v-github-icon/graphs/contributors)
 

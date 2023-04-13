@@ -19,7 +19,6 @@
 [![built using janak](https://img.shields.io/badge/built%20using-janak-brightgreen)](https://github.com/vinayakkulkarni/janak)
 [![vue](https://img.shields.io/npm/dependency-version/v-github-icon/dev/vue?logo=vue.js)](https://vuejs.org/)
 [![vite](https://img.shields.io/github/package-json/dependency-version/vinayakkulkarni/v-github-icon/dev/vite?logo=vite)](https://vitejs.dev)
-[![maplibre-gl](https://img.shields.io/github/package-json/dependency-version/vinayakkulkarni/v-github-icon/dev/maplibre-gl)](https://maplibre.org/maplibre-gl-js-docs/api/)
 [![eslint](https://img.shields.io/github/package-json/dependency-version/vinayakkulkarni/v-github-icon/dev/eslint?logo=eslint)](https://eslint.org/)
 [![prettier](https://img.shields.io/github/package-json/dependency-version/vinayakkulkarni/v-github-icon/dev/prettier?logo=prettier)](https://prettier.io/)
 [![typescript](https://img.shields.io/github/package-json/dependency-version/vinayakkulkarni/v-github-icon/dev/typescript?logo=TypeScript)](https://www.typescriptlang.org/)

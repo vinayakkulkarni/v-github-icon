@@ -1,24 +1,28 @@
 # [v-github-icon](https://vinayakkulkarni.github.io/v-github-icon/) :octocat:
 
-[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/vinayakkulkarni/v-github-icon/ci?logo=github-actions)](https://github.com/vinayakkulkarni/v-github-icon/actions/workflows/ci.yml)
-[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/vinayakkulkarni/v-github-icon/codeql?logo=github-actions)](https://github.com/vinayakkulkarni/v-github-icon/actions/workflows/codeql.yml)
-[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/vinayakkulkarni/v-github-icon/Ship%20js%20trigger?label=⛴%20Ship.js%20trigger)](https://github.com/vinayakkulkarni/v-github-icon/actions/workflows/shipjs-trigger.yml)
+
+<!-- Badges -->
+[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/vinayakkulkarni/v-github-icon/ci.yml?logo=github-actions)](https://github.com/vinayakkulkarni/v-github-icon/actions/workflows/ci.yml)
+[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/vinayakkulkarni/v-github-icon/codeql.yml?logo=lgtm&logoWidth=18)](https://github.com/vinayakkulkarni/v-github-icon/actions/workflows/codeql.yml)
+[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/vinayakkulkarni/v-github-icon/shipjs-trigger.yml?label=⛴%20Ship.js%20trigger)](https://github.com/vinayakkulkarni/v-github-icon/actions/workflows/shipjs-trigger.yml)
 [![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/vinayakkulkarni/v-github-icon?sort=semver&logo=github)](https://github.com/vinayakkulkarni/v-github-icon/releases)
-[![npm](https://img.shields.io/npm/v/v-github-icon?logo=npm)](https://www.npmjs.com/package/v-github-icon)
-[![npm](https://img.shields.io/npm/dm/v-github-icon?logo=npm)](http://npm-stat.com/charts.html?package=v-github-icon)
-[![npm bundle size (version)](https://img.shields.io/bundlephobia/min/v-github-icon/latest)](https://bundlephobia.com/package/v-github-icon@latest)
-[![npm type definitions](https://img.shields.io/npm/types/v-github-icon?logo=TypeScript)](https://github.com/vinayakkulkarni/v-github-icon/blob/master/package.json)
+[![npm](https://img.shields.io/npm/v/v-github-icon?sort=semver&logo=npm)](https://www.npmjs.com/package/v-github-icon)
 [![DeepScan grade](https://deepscan.io/api/teams/9055/projects/18487/branches/453975/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=9055&pid=18487&bid=453975)
 [![Snyk Vulnerabilities for GitHub Repo](https://img.shields.io/snyk/vulnerabilities/github/vinayakkulkarni/v-github-icon)](https://snyk.io/test/github/vinayakkulkarni/v-github-icon)
 [![Netlify](https://img.shields.io/netlify/341e9f45-256e-4ad0-9f7f-b948b60f4e99?logo=netlify)](https://app.netlify.com/sites/v-github-icon/deploys)
 [![GitHub contributors](https://img.shields.io/github/contributors/vinayakkulkarni/v-github-icon)](https://github.com/vinayakkulkarni/v-github-icon/graphs/contributors)
+[![npm type definitions](https://img.shields.io/npm/types/v-github-icon?logo=typescript)](https://github.com/vinayakkulkarni/v-github-icon/blob/main/package.json)
+[![npm](https://img.shields.io/npm/dt/v-github-icon?logo=npm)](http://npm-stat.com/charts.html?package=v-github-icon)
+[![npm](https://img.shields.io/npm/dw/v-github-icon?logo=npm)](http://npm-stat.com/charts.html?package=v-github-icon)
+[![npm bundle size (version)](https://img.shields.io/bundlephobia/minzip/v-github-icon)](https://bundlephobia.com/package/v-github-icon@latest)
 
 [![built using janak](https://img.shields.io/badge/built%20using-janak-brightgreen)](https://github.com/vinayakkulkarni/janak)
-[![eslint](https://img.shields.io/npm/dependency-version/v-github-icon/dev/eslint?logo=eslint)](https://eslint.org/)
-[![prettier](https://img.shields.io/npm/dependency-version/v-github-icon/dev/prettier?logo=prettier)](https://prettier.io/)
 [![vue](https://img.shields.io/npm/dependency-version/v-github-icon/dev/vue?logo=vue.js)](https://vuejs.org/)
-[![vite](https://img.shields.io/npm/dependency-version/v-github-icon/dev/vite?logo=vite)](https://vitejs.dev/)
-[![typescript](https://img.shields.io/npm/dependency-version/v-github-icon/dev/typescript?logo=TypeScript)](https://www.typescriptlang.org/)
+[![vite](https://img.shields.io/github/package-json/dependency-version/vinayakkulkarni/v-github-icon/dev/vite?logo=vite)](https://vitejs.dev)
+[![maplibre-gl](https://img.shields.io/github/package-json/dependency-version/vinayakkulkarni/v-github-icon/dev/maplibre-gl)](https://maplibre.org/maplibre-gl-js-docs/api/)
+[![eslint](https://img.shields.io/github/package-json/dependency-version/vinayakkulkarni/v-github-icon/dev/eslint?logo=eslint)](https://eslint.org/)
+[![prettier](https://img.shields.io/github/package-json/dependency-version/vinayakkulkarni/v-github-icon/dev/prettier?logo=prettier)](https://prettier.io/)
+[![typescript](https://img.shields.io/github/package-json/dependency-version/vinayakkulkarni/v-github-icon/dev/typescript?logo=TypeScript)](https://www.typescriptlang.org/)
 
 ⚠️ Docs are for Vue 3, for Vue 2 docs, check [this tree](https://github.com/vinayakkulkarni/v-github-icon/tree/v2.6.1#readme)
 

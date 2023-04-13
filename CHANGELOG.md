@@ -1,3 +1,12 @@
+## [3.1.1](https://github.com/vinayakkulkarni/v-github-icon/compare/v3.1.0...v3.1.1) (2023-04-13)
+
+
+### Bug Fixes
+
+* **shipjs:** update shipjs workflow ([5e8d674](https://github.com/vinayakkulkarni/v-github-icon/commit/5e8d674cdcd1067c2d2737c530276c9e24cbea13))
+
+
+
 # [3.1.0](https://github.com/vinayakkulkarni/v-github-icon/compare/v3.0.2...v3.1.0) (2023-04-13)
 
 

@@ -100,13 +100,13 @@ import { VGithubIcon } from 'v-github-icon';
 
 ### Nuxt
 
-For Nuxt 3, create a file in `plugins/v-image.ts`
+For Nuxt 3, create a file in `plugins/v-github-icon.ts`
 
 ```js
-import { VImage } from 'v-image';
+import { VGithubIcon } from 'v-github-icon';
 
 export default defineNuxtPlugin((nuxtApp) => {
-  nuxtApp.vueApp.component('VImage', VImage);
+  nuxtApp.vueApp.component('VGithubIcon', VGithubIcon);
 ```
 
 then import the file in `nuxt.config.{j|t}s`:
@@ -116,7 +116,7 @@ export default {
   // ...
   plugins: [
     // ...
-    { src: '~/plugins/v-image', mode: 'client' },
+    { src: '~/plugins/v-github-icon', mode: 'client' },
     // ...
   ],
   // ...

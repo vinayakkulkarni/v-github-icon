@@ -1,3 +1,26 @@
+# [3.1.0](https://github.com/vinayakkulkarni/v-github-icon/compare/v3.0.2...v3.1.0) (2023-04-13)
+
+
+### Bug Fixes
+
+* **deps:** bump actions/stale from 6 to 7 ([b8ac89b](https://github.com/vinayakkulkarni/v-github-icon/commit/b8ac89b7ad1c8ae4ea00c45ef3333c2563f26159))
+* **deps:** bump actions/stale from 7 to 8 ([b4024f6](https://github.com/vinayakkulkarni/v-github-icon/commit/b4024f6ba19f654e68124ef47e2696d36abf6a21))
+* **deps:** bump amannn/action-semantic-pull-request from 5.0.2 to 5.1.0 ([687eb41](https://github.com/vinayakkulkarni/v-github-icon/commit/687eb41cb3d4014f17b6c534de63257de8f8ccc5))
+* **deps:** bump amannn/action-semantic-pull-request from 5.1.0 to 5.2.0 ([bfe9d58](https://github.com/vinayakkulkarni/v-github-icon/commit/bfe9d5861f4db2e32d52b7ba71df2ef61bd426ea))
+* **deps:** bump peaceiris/actions-gh-pages from 3.9.0 to 3.9.1 ([61e9b9c](https://github.com/vinayakkulkarni/v-github-icon/commit/61e9b9cf25180dd6a31a29f96ec8c98fe994a328))
+* **deps:** bump peaceiris/actions-gh-pages from 3.9.1 to 3.9.2 ([a990b1f](https://github.com/vinayakkulkarni/v-github-icon/commit/a990b1f2ff6f1faff5828cc94da29d93de76b29d))
+* **deps:** bump peaceiris/actions-gh-pages from 3.9.2 to 3.9.3 ([823e492](https://github.com/vinayakkulkarni/v-github-icon/commit/823e492da27e6fd9684bd901b04f79b9d46017bb))
+* **deps:** bump vue from 3.2.41 to 3.2.44 in /example ([e6bf633](https://github.com/vinayakkulkarni/v-github-icon/commit/e6bf633ef8c28dfb8472ffa2d0dd62b19b8ba341))
+* **deps:** bump vue from 3.2.44 to 3.2.45 in /example ([988abf6](https://github.com/vinayakkulkarni/v-github-icon/commit/988abf62059316174e1bbbf138b46dd70c18643a))
+* **deps:** bump vue from 3.2.45 to 3.2.47 in /example ([dd9a317](https://github.com/vinayakkulkarni/v-github-icon/commit/dd9a317e1a32285a219404b0f6b671e26b1fa99b))
+
+
+### Features
+
+* add automerger workflow 🎉 ([3a852db](https://github.com/vinayakkulkarni/v-github-icon/commit/3a852db6f1041c441505387eb3805871da705e72))
+
+
+
 ## [3.0.2](https://github.com/vinayakkulkarni/v-github-icon/compare/v3.0.1...v3.0.2) (2022-11-05)
 
 

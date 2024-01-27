@@ -1,4 +1,4 @@
 module.exports = {
-  installCommand: () => 'npm i --prefer-offline --no-audit',
+  installCommand: () => 'bun i',
   publishCommand: () => 'npm publish --tag latest',
 };

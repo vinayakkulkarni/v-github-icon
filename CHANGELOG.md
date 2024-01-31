@@ -1,3 +1,23 @@
+## [3.1.3](https://github.com/vinayakkulkarni/v-github-icon/compare/v3.1.2...v3.1.3) (2024-01-31)
+
+
+### Bug Fixes
+
+* **deps:** bump v-github-icon from 3.1.1 to 3.1.2 in /example ([80f0f24](https://github.com/vinayakkulkarni/v-github-icon/commit/80f0f24d81757c4c97644531ee3c875ec17a7e81))
+* **deps:** Bump vue from 3.3.13 to 3.4.3 in /example ([208889d](https://github.com/vinayakkulkarni/v-github-icon/commit/208889d3e8cba9d010be4123911313874c1a057d))
+* **deps:** Bump vue from 3.4.10 to 3.4.13 in /example ([3f24dfd](https://github.com/vinayakkulkarni/v-github-icon/commit/3f24dfdb57efe00639d175f103e27014c6f1489e))
+* **deps:** Bump vue from 3.4.13 to 3.4.14 in /example ([058651a](https://github.com/vinayakkulkarni/v-github-icon/commit/058651a30ebbc5d97f7ec4e568264b4ddf231033))
+* **deps:** Bump vue from 3.4.14 to 3.4.15 in /example ([76695ce](https://github.com/vinayakkulkarni/v-github-icon/commit/76695ce3e4080803b04bcdefcd0433e8aa75efd3))
+* **deps:** Bump vue from 3.4.3 to 3.4.4 in /example ([fd21997](https://github.com/vinayakkulkarni/v-github-icon/commit/fd21997a6e361880330a7e173dda9809d1a59448))
+* **deps:** Bump vue from 3.4.4 to 3.4.5 in /example ([bd34186](https://github.com/vinayakkulkarni/v-github-icon/commit/bd341868a9ac64b5e89198bb10d915a683a3b29a))
+* **deps:** Bump vue from 3.4.5 to 3.4.6 in /example ([08643a1](https://github.com/vinayakkulkarni/v-github-icon/commit/08643a1100ee9c333ce33ca7fba0c6c7d393ff8e))
+* **deps:** Bump vue from 3.4.6 to 3.4.7 in /example ([7cd258b](https://github.com/vinayakkulkarni/v-github-icon/commit/7cd258b834e06195040576ac7ff6602e02f5a867))
+* **deps:** Bump vue from 3.4.7 to 3.4.8 in /example ([950f6cf](https://github.com/vinayakkulkarni/v-github-icon/commit/950f6cfc50d9c0e2c7970a5e2892613680cefcb2))
+* **deps:** Bump vue from 3.4.8 to 3.4.10 in /example ([be6e836](https://github.com/vinayakkulkarni/v-github-icon/commit/be6e83620154fd6e47a2789f34e7bdfe7b04e22b))
+* **shipjs:** update install command ([b7ef22e](https://github.com/vinayakkulkarni/v-github-icon/commit/b7ef22e05c387599512886f1c73359f3fa04ed0f))
+
+
+
 ## <small>3.1.2 (2023-12-24)</small>
 
 * ci: enable optional devDeps to be installed ([e812522](https://github.com/vinayakkulkarni/v-github-icon/commit/e812522))

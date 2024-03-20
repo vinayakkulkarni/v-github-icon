@@ -1,3 +1,12 @@
+## [3.2.1](https://github.com/vinayakkulkarni/v-github-icon/compare/v3.2.0...v3.2.1) (2024-03-20)
+
+
+### Bug Fixes
+
+* issue with jsr config ([f714331](https://github.com/vinayakkulkarni/v-github-icon/commit/f7143316d59b03c443692ce5362d7909a9dc59ae))
+
+
+
 # [3.2.0](https://github.com/vinayakkulkarni/v-github-icon/compare/v3.1.3...v3.2.0) (2024-03-20)
 
 

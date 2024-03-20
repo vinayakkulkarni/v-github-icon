@@ -1,6 +1,6 @@
 {
   "name": "v-github-icon",
-  "version": "3.1.3",
+  "version": "3.2.0",
   "description": "Vue + GitHub Icon ❤️",
   "main": "./dist/v-github-icon.js",
   "module": "./dist/v-github-icon.js",

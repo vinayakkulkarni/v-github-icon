@@ -1,3 +1,18 @@
+# [3.2.0](https://github.com/vinayakkulkarni/v-github-icon/compare/v3.1.3...v3.2.0) (2024-03-20)
+
+
+### Bug Fixes
+
+* let publishCommand be handled by shipjs ([fecee53](https://github.com/vinayakkulkarni/v-github-icon/commit/fecee53db1324fc7271dfa742609d6dd7195f08d))
+* **shipjs:** bunx to jsr ([d324ab8](https://github.com/vinayakkulkarni/v-github-icon/commit/d324ab8443e9c544c205370dac9853255efcb30f))
+
+
+### Features
+
+* add dependabot 🤖 ([15d7b29](https://github.com/vinayakkulkarni/v-github-icon/commit/15d7b292ae91bded961ca0f67574944b355af318))
+
+
+
 ## [3.1.3](https://github.com/vinayakkulkarni/v-github-icon/compare/v3.1.2...v3.1.3) (2024-01-31)
 
 

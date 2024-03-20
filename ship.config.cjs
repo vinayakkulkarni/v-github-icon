@@ -1,4 +1,7 @@
 module.exports = {
   installCommand: () => 'bun i',
-  publishCommand: () => 'npm publish --tag latest',
+  publishCommand: () => 'bun publish --tag latest',
+  beforeCommitChanges: ({ exec }) => {
+    exec('./scripts/bump-jsr-version.cjs');
+  },
 };

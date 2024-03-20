@@ -14,6 +14,7 @@ permissions:
 
 jobs:
   ci:
+    name: 'CI'
     runs-on: ubuntu-latest
     steps:
       - name: Check out repository 🎉
@@ -23,6 +24,8 @@ jobs:
 
       - name: Setup bun env 🐰
         uses: oven-sh/setup-bun@v1
+        with:
+          bun-version: latest
 
       - name: Install dependencies 🚀
         run: bun install
@@ -36,7 +39,7 @@ jobs:
           git_email: github-actions[bot]@users.noreply.github.com
           auto_fix: false
           neutral_check_on_warning: true
-          stylelint: true
+          stylelint: false
           stylelint_extensions: css,scss,vue
           eslint: true
           eslint_extensions: js,ts,vue

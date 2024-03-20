@@ -2,7 +2,8 @@
   "name": "@vinayakkulkarni/v-github-icon",
   "version": "3.1.4",
   "exports": "./dist/v-github-icon.js",
-  "include": [
-    "./dist/**"
-  ]
+  "include": ["./dist/**"],
+  "publish": {
+    "exclude": ["!dist"]
+  }
 }

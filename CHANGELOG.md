@@ -1,3 +1,12 @@
+## [3.1.4](https://github.com/vinayakkulkarni/v-github-icon/compare/v3.1.3...v3.1.4) (2024-03-20)
+
+
+### Bug Fixes
+
+* **shipjs:** bunx to jsr ([d324ab8](https://github.com/vinayakkulkarni/v-github-icon/commit/d324ab8443e9c544c205370dac9853255efcb30f))
+
+
+
 ## [3.1.3](https://github.com/vinayakkulkarni/v-github-icon/compare/v3.1.2...v3.1.3) (2024-01-31)
 
 

@@ -1,3 +1,10 @@
+## <small>3.1.4 (2024-03-20)</small>
+
+* chore: minor housekeeping ✨ ([4f4aa95](https://github.com/vinayakkulkarni/v-github-icon/commit/4f4aa95))
+* chore(deps): update dependency eslint-plugin-storybook to ^0.8.0 (#1814) ([4128801](https://github.com/vinayakkulkarni/v-github-icon/commit/4128801)), closes [#1814](https://github.com/vinayakkulkarni/v-github-icon/issues/1814)
+
+
+
 ## [3.1.3](https://github.com/vinayakkulkarni/v-github-icon/compare/v3.1.2...v3.1.3) (2024-01-31)
 
 

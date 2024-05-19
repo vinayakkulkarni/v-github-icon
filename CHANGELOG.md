@@ -1,3 +1,20 @@
+## [3.2.2](https://github.com/vinayakkulkarni/v-github-icon/compare/v3.2.1...v3.2.2) (2024-05-19)
+
+
+### Bug Fixes
+
+* **deps:** bump amannn/action-semantic-pull-request ([#1881](https://github.com/vinayakkulkarni/v-github-icon/issues/1881)) ([17cb12e](https://github.com/vinayakkulkarni/v-github-icon/commit/17cb12e5b03e7876bea87ef29ce3cb6206d497a7))
+* **deps:** bump dependabot/fetch-metadata from 1.7.0 to 2.0.0 ([bbec946](https://github.com/vinayakkulkarni/v-github-icon/commit/bbec946e1606082672695410df6870255ef3086f))
+* **deps:** bump peaceiris/actions-gh-pages from 3.9.3 to 4.0.0 ([172fd4a](https://github.com/vinayakkulkarni/v-github-icon/commit/172fd4a53b2e6c961be0ea5c4764318a9fc2d34a))
+* **deps:** Bump the actions-minor group with 1 update ([#1833](https://github.com/vinayakkulkarni/v-github-icon/issues/1833)) ([d559c80](https://github.com/vinayakkulkarni/v-github-icon/commit/d559c80dec4453910ca63a04b4bc41bc709b7062))
+* **deps:** bump the actions-minor group with 2 updates ([#1883](https://github.com/vinayakkulkarni/v-github-icon/issues/1883)) ([471067e](https://github.com/vinayakkulkarni/v-github-icon/commit/471067e23fc32b6aee1c6fba2934aefe51e7d2d6))
+* **deps:** Update v-github-icon requirement from ^3.1.2 to ^3.2.1 in /example ([#1827](https://github.com/vinayakkulkarni/v-github-icon/issues/1827)) ([7885589](https://github.com/vinayakkulkarni/v-github-icon/commit/7885589c6f9912b2dd099d0d852b29fd05b412a1))
+* **deps:** Update vue requirement from ^3.4.15 to ^3.4.21 in /example ([#1823](https://github.com/vinayakkulkarni/v-github-icon/issues/1823)) ([aca9dca](https://github.com/vinayakkulkarni/v-github-icon/commit/aca9dca839dbaa10a49ecdc5abbb67fdd207f9df))
+* **deps:** update vue requirement from ^3.4.21 to ^3.4.26 in /example ([6f0fb0a](https://github.com/vinayakkulkarni/v-github-icon/commit/6f0fb0adaedb4b7c0c3557648f0100597ec020bf))
+* **deps:** update vue requirement from ^3.4.26 to ^3.4.27 in /example ([e5d3b28](https://github.com/vinayakkulkarni/v-github-icon/commit/e5d3b2897a3b83e7ee45d5ceaeb4a7e68be4ed0f))
+
+
+
 ## [3.2.1](https://github.com/vinayakkulkarni/v-github-icon/compare/v3.2.0...v3.2.1) (2024-03-20)
 
 

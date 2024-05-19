@@ -1,6 +1,7 @@
 import vue from '@vitejs/plugin-vue';
 import { resolve } from 'path';
 import { defineConfig } from 'vite';
+import type { OutputOptions, PreRenderedAsset } from 'rollup';
 import pkg from './package.json';
 
 const banner = `/*!
@@ -8,6 +9,13 @@ const banner = `/*!
 * (c) ${new Date().getFullYear()} ${pkg.author.name}
 * @license ${pkg.license}
 */`;
+
+const assetFileNames: OutputOptions['assetFileNames'] = (
+  chunkInfo: PreRenderedAsset,
+): string => {
+  if (chunkInfo.name === 'style.css') return 'v-github-icon.css';
+  return chunkInfo.name || 'v-github-icon.css';
+};
 
 export default defineConfig({
   plugins: [vue()],
@@ -39,10 +47,7 @@ export default defineConfig({
         globals: {
           vue: 'vue',
         },
-        assetFileNames: (assetInfo) => {
-          if (assetInfo.name === 'style.css') return 'v-github-icon.css';
-          return assetInfo.name;
-        },
+        assetFileNames,
       },
     },
   },

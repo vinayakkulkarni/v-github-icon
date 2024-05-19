@@ -1,6 +1,6 @@
 {
   "name": "@vinayakkulkarni/v-github-icon",
-  "version": "3.2.1",
+  "version": "3.2.2",
   "exports": "./dist/v-github-icon.js",
   "publish": {
     "exclude": [

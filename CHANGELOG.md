@@ -15,6 +15,19 @@
 
 
 
+## [3.3.1](https://github.com/vinayakkulkarni/v-github-icon/compare/v-github-icon-v3.3.0...v-github-icon-v3.3.1) (2026-02-13)
+
+
+### Bug Fixes
+
+* **deps:** Bump dependabot/fetch-metadata ([#2194](https://github.com/vinayakkulkarni/v-github-icon/issues/2194)) ([0ee0346](https://github.com/vinayakkulkarni/v-github-icon/commit/0ee03466500b40190b3060c872dc12d00c52e69c))
+* symlink skills ([b6f318c](https://github.com/vinayakkulkarni/v-github-icon/commit/b6f318c87280730e25e80e8e89d22a04a6235a99))
+
+
+### Miscellaneous
+
+* delete extra `skills` dir ([e81ee1f](https://github.com/vinayakkulkarni/v-github-icon/commit/e81ee1ff3f5f49bc157f1f5976dc76ce9870a383))
+
 ## [3.3.0](https://github.com/vinayakkulkarni/v-github-icon/compare/v-github-icon-v3.2.2...v-github-icon-v3.3.0) (2026-02-07)
 
 

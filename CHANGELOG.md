@@ -15,6 +15,32 @@
 
 
 
+## [3.3.1](https://github.com/vinayakkulkarni/v-github-icon/compare/v-github-icon-v3.3.0...v-github-icon-v3.3.1) (2026-03-31)
+
+
+### Bug Fixes
+
+* **deps:** bump actions/checkout from 4 to 6 ([50bdd8f](https://github.com/vinayakkulkarni/v-github-icon/commit/50bdd8f2ed571f002472129b8bb07c1b31dea11a))
+* **deps:** bump actions/checkout from 4 to 6 ([9050707](https://github.com/vinayakkulkarni/v-github-icon/commit/9050707b002be89d0f10b3e2156b8760131f4117))
+* **deps:** bump actions/stale from 9 to 10 ([e27d1ec](https://github.com/vinayakkulkarni/v-github-icon/commit/e27d1eca0087c41a367e1d132f7a02fa2d097d52))
+* **deps:** bump actions/stale from 9 to 10 ([71bbade](https://github.com/vinayakkulkarni/v-github-icon/commit/71bbade355dbc512c7ae87b1ad2dbce1e2e9e1a5))
+* **deps:** bump amannn/action-semantic-pull-request from 5.5.2 to 6.1.1 ([965837f](https://github.com/vinayakkulkarni/v-github-icon/commit/965837f87765052ff5b022637f6a899aeba0366f))
+* **deps:** bump amannn/action-semantic-pull-request from 5.5.2 to 6.1.1 ([03fe432](https://github.com/vinayakkulkarni/v-github-icon/commit/03fe43254781a9307706099adf93e8a16768ac11))
+* **deps:** Bump dependabot/fetch-metadata ([#2194](https://github.com/vinayakkulkarni/v-github-icon/issues/2194)) ([0ee0346](https://github.com/vinayakkulkarni/v-github-icon/commit/0ee03466500b40190b3060c872dc12d00c52e69c))
+* **deps:** update vue requirement from ^3.5.17 to ^3.5.31 in /example ([52a7998](https://github.com/vinayakkulkarni/v-github-icon/commit/52a7998d95a276478b8bed00f84c493cd4fd9710))
+* **deps:** update vue requirement from ^3.5.17 to ^3.5.31 in /example ([3727ed2](https://github.com/vinayakkulkarni/v-github-icon/commit/3727ed27701ecc1bf5509104563e08d0af69aeac))
+* symlink skills ([b6f318c](https://github.com/vinayakkulkarni/v-github-icon/commit/b6f318c87280730e25e80e8e89d22a04a6235a99))
+
+
+### Miscellaneous
+
+* delete extra `skills` dir ([e81ee1f](https://github.com/vinayakkulkarni/v-github-icon/commit/e81ee1ff3f5f49bc157f1f5976dc76ce9870a383))
+* **deps-dev:** bump vue-tsc from 2.2.12 to 3.2.6 in /example ([35242c6](https://github.com/vinayakkulkarni/v-github-icon/commit/35242c6caca34b605ca99f3b33266ab8c8391c2a))
+* **deps-dev:** bump vue-tsc from 2.2.12 to 3.2.6 in /example ([47115b1](https://github.com/vinayakkulkarni/v-github-icon/commit/47115b145a79f3b684b2fc6f316cea5ba0222bc0))
+* **deps-dev:** update sass requirement from ^1.85.0 to ^1.98.0 in /example ([1381e90](https://github.com/vinayakkulkarni/v-github-icon/commit/1381e9028ce3edcf0cf1677be7a09af470d9b375))
+* **deps-dev:** update sass requirement in /example ([1a736cd](https://github.com/vinayakkulkarni/v-github-icon/commit/1a736cdb63210a13291f077d8a0e381c6bb0cc80))
+* update dependencies and fix tsconfig for TypeScript 6.0 ([0b23e1b](https://github.com/vinayakkulkarni/v-github-icon/commit/0b23e1ba448c1eaf80ee8d9c3d1f96a9c4ea46c5))
+
 ## [3.3.0](https://github.com/vinayakkulkarni/v-github-icon/compare/v-github-icon-v3.2.2...v-github-icon-v3.3.0) (2026-02-07)
 
 

@@ -85,17 +85,17 @@ Register the component globally:
 
 ```js
 // main.ts
-import { VGithubIcon } from "v-github-icon";
-import { createApp } from "vue";
+import { VGithubIcon } from 'v-github-icon';
+import { createApp } from 'vue';
 
 const app = createApp({});
-app.component("VGithubIcon", VGithubIcon);
+app.component('VGithubIcon', VGithubIcon);
 ```
 
 Or use locally
 
 ```javascript
-import { VGithubIcon } from "v-github-icon";
+import { VGithubIcon } from 'v-github-icon';
 ```
 
 ### Nuxt
@@ -116,7 +116,7 @@ export default {
   // ...
   plugins: [
     // ...
-    { src: "~/plugins/v-github-icon", mode: "client" },
+    { src: '~/plugins/v-github-icon', mode: 'client' },
     // ...
   ],
   // ...
@@ -131,7 +131,12 @@ export default {
 ### HTML
 
 ```html
-<v-github-icon :position="position" :url="url" :bg-color="bgColor" :fill-color="fillColor" />
+<v-github-icon
+  :position="position"
+  :url="url"
+  :bg-color="bgColor"
+  :fill-color="fillColor"
+/>
 ```
 
 ### JS

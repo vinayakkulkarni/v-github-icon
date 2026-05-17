@@ -1,7 +1,7 @@
 # [v-github-icon](https://vinayakkulkarni.github.io/v-github-icon/) :octocat:
 
-
 <!-- Badges -->
+
 [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/vinayakkulkarni/v-github-icon/ci.yml?logo=github-actions)](https://github.com/vinayakkulkarni/v-github-icon/actions/workflows/ci.yml)
 [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/vinayakkulkarni/v-github-icon/codeql.yml?logo=lgtm&logoWidth=18)](https://github.com/vinayakkulkarni/v-github-icon/actions/workflows/codeql.yml)
 [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/vinayakkulkarni/v-github-icon/shipjs-trigger.yml?label=⛴%20Ship.js%20trigger)](https://github.com/vinayakkulkarni/v-github-icon/actions/workflows/shipjs-trigger.yml)
@@ -85,17 +85,17 @@ Register the component globally:
 
 ```js
 // main.ts
-import { VGithubIcon } from 'v-github-icon';
-import { createApp } from 'vue';
+import { VGithubIcon } from "v-github-icon";
+import { createApp } from "vue";
 
 const app = createApp({});
-app.component('VGithubIcon', VGithubIcon);
+app.component("VGithubIcon", VGithubIcon);
 ```
 
 Or use locally
 
 ```javascript
-import { VGithubIcon } from 'v-github-icon';
+import { VGithubIcon } from "v-github-icon";
 ```
 
 ### Nuxt
@@ -116,7 +116,7 @@ export default {
   // ...
   plugins: [
     // ...
-    { src: '~/plugins/v-github-icon', mode: 'client' },
+    { src: "~/plugins/v-github-icon", mode: "client" },
     // ...
   ],
   // ...
@@ -131,12 +131,7 @@ export default {
 ### HTML
 
 ```html
-<v-github-icon
-  :position="position"
-  :url="url"
-  :bg-color="bgColor"
-  :fill-color="fillColor"
-/>
+<v-github-icon :position="position" :url="url" :bg-color="bgColor" :fill-color="fillColor" />
 ```
 
 ### JS

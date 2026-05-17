@@ -3,13 +3,7 @@
     "target": "esnext",
     "module": "esnext",
     "moduleResolution": "bundler",
-    "lib": [
-      "esnext",
-      "dom",
-      "dom.iterable",
-      "scripthost",
-      "esnext.asynciterable"
-    ],
+    "lib": ["esnext", "dom", "dom.iterable", "scripthost", "esnext.asynciterable"],
     "outDir": "./dist",
     "rootDir": "./src",
     "esModuleInterop": true,
@@ -19,15 +13,8 @@
     "noEmit": false,
     "skipLibCheck": true,
     "resolveJsonModule": true,
-    "types": [
-      "@types/node"
-    ]
+    "types": ["@types/node"]
   },
-  "include": [
-    "src"
-  ],
-  "exclude": [
-    "node_modules",
-    "dist"
-  ]
+  "include": ["src"],
+  "exclude": ["node_modules", "dist"]
 }

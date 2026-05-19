@@ -2,18 +2,21 @@
 
 <!-- Badges -->
 
-[![Pipeline](https://img.shields.io/github/actions/workflow/status/vinayakkulkarni/v-github-icon/pipeline.yml?logo=github-actions)](https://github.com/vinayakkulkarni/v-github-icon/actions/workflows/pipeline.yml)
-[![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/vinayakkulkarni/v-github-icon?sort=semver&logo=github)](https://github.com/vinayakkulkarni/v-github-icon/releases)
-[![npm](https://img.shields.io/npm/v/v-github-icon?sort=semver&logo=npm)](https://www.npmjs.com/package/v-github-icon)
-[![Netlify](https://img.shields.io/netlify/341e9f45-256e-4ad0-9f7f-b948b60f4e99?logo=netlify)](https://app.netlify.com/sites/v-github-icon/deploys)
-[![GitHub contributors](https://img.shields.io/github/contributors/vinayakkulkarni/v-github-icon)](https://github.com/vinayakkulkarni/v-github-icon/graphs/contributors)
-[![npm type definitions](https://img.shields.io/npm/types/v-github-icon?logo=typescript)](https://github.com/vinayakkulkarni/v-github-icon/blob/main/package.json)
-[![npm](https://img.shields.io/npm/dt/v-github-icon?logo=npm)](http://npm-stat.com/charts.html?package=v-github-icon)
-[![npm](https://img.shields.io/npm/dw/v-github-icon?logo=npm)](http://npm-stat.com/charts.html?package=v-github-icon)
-[![npm bundle size (version)](https://img.shields.io/bundlephobia/minzip/v-github-icon)](https://bundlephobia.com/package/v-github-icon@latest)
+[![Pipeline](https://img.shields.io/github/actions/workflow/status/vinayakkulkarni/v-github-icon/pipeline.yml?branch=main&logo=github-actions&label=pipeline)](https://github.com/vinayakkulkarni/v-github-icon/actions/workflows/pipeline.yml)
+[![GitHub release](https://img.shields.io/github/v/release/vinayakkulkarni/v-github-icon?sort=semver&logo=github&label=release)](https://github.com/vinayakkulkarni/v-github-icon/releases)
+[![npm](https://img.shields.io/npm/v/v-github-icon?logo=npm&label=npm)](https://www.npmjs.com/package/v-github-icon)
+[![JSR](https://img.shields.io/jsr/v/@vinayakkulkarni/v-github-icon?logo=jsr&label=jsr)](https://jsr.io/@vinayakkulkarni/v-github-icon)
+[![npm downloads](https://img.shields.io/npm/dm/v-github-icon?logo=npm&label=downloads)](http://npm-stat.com/charts.html?package=v-github-icon)
+[![bundle size](https://img.shields.io/bundlephobia/minzip/v-github-icon?label=size)](https://bundlephobia.com/package/v-github-icon@latest)
+[![types](https://img.shields.io/npm/types/v-github-icon?logo=typescript&label=types)](https://github.com/vinayakkulkarni/v-github-icon/blob/main/package.json)
+[![License](https://img.shields.io/github/license/vinayakkulkarni/v-github-icon?logo=github&label=license)](./LICENSE)
 
-[![vite-plus](https://img.shields.io/github/package-json/dependency-version/vinayakkulkarni/v-github-icon/dev/vite-plus?logo=vite)](https://github.com/voidzero-dev/vite-plus)
-[![typescript](https://img.shields.io/github/package-json/dependency-version/vinayakkulkarni/v-github-icon/dev/typescript?logo=TypeScript)](https://www.typescriptlang.org/)
+[![vite-plus](https://img.shields.io/github/package-json/dependency-version/vinayakkulkarni/v-github-icon/dev/vite-plus?logo=vite&label=vite-plus)](https://github.com/voidzero-dev/vite-plus)
+[![typescript](https://img.shields.io/github/package-json/dependency-version/vinayakkulkarni/v-github-icon/dev/typescript?logo=TypeScript&label=typescript)](https://www.typescriptlang.org/)
+[![pnpm](https://img.shields.io/github/package-json/packageManager/vinayakkulkarni/v-github-icon?label=pnpm&logo=pnpm)](https://pnpm.io/)
+[![node](https://img.shields.io/node/v/v-github-icon?logo=node.js&label=node)](https://nodejs.org/)
+
+<!-- End Badges -->
 
 ⚠️ Docs are for Vue 3, for Vue 2 docs, check [this tree](https://github.com/vinayakkulkarni/v-github-icon/tree/v2.6.1#readme)
 
@@ -21,8 +24,8 @@
 
 - GitHub corners made easy!
 - Built from scratch usign Vue 3
-- For Vue 3.x version – `npm i v-github-icon`
-- For Vue 2.x version – `npm i v-github-icon@1 && npm i -D @vue/composition-api`
+- For Vue 3.x version – `pnpm add v-github-icon`
+- For Vue 2.x version – `pnpm add v-github-icon@1 && pnpm add -D @vue/composition-api`
 
 ## Table of Contents
 
@@ -56,7 +59,7 @@
 ### Installation
 
 ```sh
-npm install --save v-github-icon
+pnpm add v-github-icon
 ```
 
 CDN: [UNPKG](https://unpkg.com/v-github-icon/dist/) | [jsDelivr](https://cdn.jsdelivr.net/npm/v-github-icon/dist/)
@@ -65,10 +68,10 @@ CDN: [UNPKG](https://unpkg.com/v-github-icon/dist/) | [jsDelivr](https://cdn.jsd
 
 ```bash
 # install dependencies
-$ npm install
+$ pnpm install
 
 # package the library
-$ npm run build
+$ pnpm run build
 ```
 
 ## Usage

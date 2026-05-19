@@ -2,7 +2,7 @@
   "name": "v-github-icon",
   "version": "3.3.0",
   "private": false,
-  "description": "Vue + GitHub Icon ❤️",
+  "description": "Vue 3 component for rendering GitHub Octicons (1,800+ icons) with full TypeScript types and tree-shakable ESM output.",
   "keywords": [
     "GitHub Icon",
     "git icon",

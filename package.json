@@ -51,7 +51,7 @@
     "@commitlint/cli": "^21.0.1",
     "@commitlint/config-conventional": "^21.0.1",
     "@tsdown/css": "^0.22.0",
-    "@types/node": "^25.9.0",
+    "@types/node": "^26.6.5",
     "husky": "^9.1.7",
     "is-ci": "^4.1.0",
     "lint-staged": "^17.0.5",

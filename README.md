@@ -1,4 +1,4 @@
-# [v-github-icon](https://vinayakkulkarni.github.io/v-github-icon/) :octocat:
+# [v-github-icon](https://v-github-icon.vinayakkulkarni.dev) :octocat:
 
 <!-- Badges -->
 
@@ -51,7 +51,7 @@
 
 ## Demo
 
-[![Edit v-github-icon](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/edit/v-github-icon?file=src/App.vue)
+Live demo: [v-github-icon.vinayakkulkarni.dev](https://v-github-icon.vinayakkulkarni.dev). Pick a corner and colours, then copy the snippet.
 
 ## Requirements
 
@@ -73,7 +73,15 @@ $ pnpm install
 
 # package the library
 $ pnpm run build
+
+# run the demo locally
+$ pnpm run demo:dev
+
+# build the demo and deploy it to Cloudflare Workers
+$ pnpm run deploy
 ```
+
+The toolchain is Node 26 (`devEngines.runtime`) and pnpm (`packageManager`).
 
 ## Usage
 
@@ -121,7 +129,7 @@ export default {
 
 <details>
 <summary>
-<em>Example 1 (<a href="examples/src/App.vue">refer App.vue</a>)</em>
+<em>Example 1 (<a href="example/src/App.vue">refer App.vue</a>)</em>
 </summary>
 
 ### HTML

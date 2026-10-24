@@ -43,7 +43,7 @@ v-github-icon/
 | Package Mgr | pnpm                              |
 | Git Hooks   | Husky + lint-staged + commitlint  |
 | Release     | release-please                    |
-| Node        | 24                                |
+| Node        | 26                                |
 
 ---
 
@@ -55,7 +55,10 @@ pnpm run lint:fix      # vp lint --fix
 pnpm run format        # vp fmt
 pnpm run format:check  # vp fmt --check
 pnpm run build         # vp pack (tsdown + dts)
-pnpm run test          # Tests
+pnpm run typecheck     # vue-tsc --noEmit
+pnpm run test          # vp test run (happy-dom)
+pnpm run demo:build    # library + example demo
+pnpm run deploy        # demo -> Cloudflare Worker v-github-icon-demo
 ```
 
 ---

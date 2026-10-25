@@ -1,6 +1,6 @@
 // GA4 measurement ID for v-github-icon.vinayakkulkarni.dev.
 // Empty until the property exists; GA4 stays off while it is empty.
-const GA_MEASUREMENT_ID = '';
+const GA_MEASUREMENT_ID = 'G-88TZ1GTXNP';
 
 type EventProps = Record<string, string | number | boolean>;
 

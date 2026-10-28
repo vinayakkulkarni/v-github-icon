@@ -1,4 +1,4 @@
-# [v-github-icon](https://v-github-icon.vinayakkulkarni.dev) :octocat:
+# [v-github-icon](https://v-github-icon.vinayakkulkarni.dev/?utm_source=github&utm_medium=readme&utm_campaign=v-github-icon) :octocat:
 
 <!-- Badges -->
 
@@ -18,6 +18,8 @@
 [![node](https://img.shields.io/node/v/v-github-icon?logo=node.js&label=node)](https://nodejs.org/)
 
 <!-- End Badges -->
+
+**[Live demo](https://v-github-icon.vinayakkulkarni.dev/?utm_source=github&utm_medium=readme&utm_campaign=v-github-icon)** · [npm](https://www.npmjs.com/package/v-github-icon) · [JSR](https://jsr.io/@vinayakkulkarni/v-github-icon)
 
 ⚠️ Docs are for Vue 3, for Vue 2 docs, check [this tree](https://github.com/vinayakkulkarni/v-github-icon/tree/v2.6.1#readme)
 
@@ -51,7 +53,7 @@
 
 ## Demo
 
-Live demo: [v-github-icon.vinayakkulkarni.dev](https://v-github-icon.vinayakkulkarni.dev). Pick a corner and colours, then copy the snippet.
+Live demo: [v-github-icon.vinayakkulkarni.dev](https://v-github-icon.vinayakkulkarni.dev/?utm_source=github&utm_medium=readme&utm_campaign=v-github-icon). Pick a corner and colours, then copy the snippet.
 
 ## Requirements
 
@@ -233,7 +235,18 @@ _Note_:
 
 ## Author
 
-**v-github-icon** &copy; [Vinayak](https://vinayakkulkarni.dev), Released under the [MIT](./LICENSE) License.<br>
+**v-github-icon** &copy; [Vinayak](https://vinayakkulkarni.dev/?utm_source=github&utm_medium=readme&utm_campaign=v-github-icon), Released under the [MIT](./LICENSE) License.<br>
 Authored and maintained by Vinayak Kulkarni with help from contributors ([list](https://github.com/vinayakkulkarni/v-github-icon/contributors)).
 
-> [vinayakkulkarni.dev](https://vinayakkulkarni.dev) · GitHub [@vinayakkulkarni](https://github.com/vinayakkulkarni) · Twitter [@\_vinayak_k](https://twitter.com/_vinayak_k)
+> [vinayakkulkarni.dev](https://vinayakkulkarni.dev/?utm_source=github&utm_medium=readme&utm_campaign=v-github-icon) · GitHub [@vinayakkulkarni](https://github.com/vinayakkulkarni) · Twitter [@\_vinayak_k](https://twitter.com/_vinayak_k)
+
+## More from the author
+
+- [v-spotlight](https://v-spotlight.vinayakkulkarni.dev/?utm_source=github&utm_medium=readme&utm_campaign=v-github-icon) — cursor spotlight overlay for Vue 3
+- [v-pip](https://v-pip.vinayakkulkarni.dev/?utm_source=github&utm_medium=readme&utm_campaign=v-github-icon) — picture-in-picture for Vue 3
+- [v-image](https://v-image.vinayakkulkarni.dev/?utm_source=github&utm_medium=readme&utm_campaign=v-github-icon) — Vue 3 image input with live preview
+- [v-intl](https://v-intl.vinayakkulkarni.dev/?utm_source=github&utm_medium=readme&utm_campaign=v-github-icon) — native `Intl` formatting components for Vue 3
+- [nxui](https://nxui.geoql.in/?utm_source=github&utm_medium=readme&utm_campaign=v-github-icon) — animated copy-paste UI components and Paper Shaders for Vue 3 and Nuxt
+- [shadscan-vue](https://shadscan-vue.geoql.in/?utm_source=github&utm_medium=readme&utm_campaign=v-github-icon) — UI-fundamentals audits for shadcn-vue and shadcn-nuxt apps
+
+See every project at [vinayakkulkarni.dev/projects](https://vinayakkulkarni.dev/projects?utm_source=github&utm_medium=readme&utm_campaign=v-github-icon) and [geoql.in](https://geoql.in/?utm_source=github&utm_medium=readme&utm_campaign=v-github-icon).

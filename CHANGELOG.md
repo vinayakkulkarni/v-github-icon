@@ -15,6 +15,13 @@
 
 
 
+## [3.4.1](https://github.com/vinayakkulkarni/v-github-icon/compare/v3.4.0...v3.4.1) (2026-10-28)
+
+
+### Documentation
+
+* link live demo and related projects ([#2319](https://github.com/vinayakkulkarni/v-github-icon/issues/2319)) ([efc00ef](https://github.com/vinayakkulkarni/v-github-icon/commit/efc00efc0a21c6f0178e6f6def7714a75bc93bbf))
+
 ## [3.4.0](https://github.com/vinayakkulkarni/v-github-icon/compare/v3.3.0...v3.4.0) (2026-10-25)
 
 

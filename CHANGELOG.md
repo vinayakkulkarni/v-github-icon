@@ -15,6 +15,13 @@
 
 
 
+## [3.4.2](https://github.com/vinayakkulkarni/v-github-icon/compare/v3.4.1...v3.4.2) (2026-10-29)
+
+
+### Miscellaneous
+
+* **deps-dev:** bump wrangler ([#2322](https://github.com/vinayakkulkarni/v-github-icon/issues/2322)) ([1403e4e](https://github.com/vinayakkulkarni/v-github-icon/commit/1403e4e56a45fbecf138603d7292aaa6de8a2ab7))
+
 ## [3.4.1](https://github.com/vinayakkulkarni/v-github-icon/compare/v3.4.0...v3.4.1) (2026-10-28)
 
 

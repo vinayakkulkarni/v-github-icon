@@ -15,6 +15,16 @@
 
 
 
+## [3.4.2](https://github.com/vinayakkulkarni/v-github-icon/compare/v3.4.1...v3.4.2) (2026-11-05)
+
+
+### Miscellaneous
+
+* **deps-dev:** bump the npm-development group with 2 updates ([#2325](https://github.com/vinayakkulkarni/v-github-icon/issues/2325)) ([6b083b1](https://github.com/vinayakkulkarni/v-github-icon/commit/6b083b1eee1ac875285c2fa0c49c8542bea4f3d5))
+* **deps-dev:** bump the npm-development group with 4 updates ([#2324](https://github.com/vinayakkulkarni/v-github-icon/issues/2324)) ([327ba7b](https://github.com/vinayakkulkarni/v-github-icon/commit/327ba7ba52db0c983438a72f4bb660f85e3de75d))
+* **deps-dev:** bump wrangler ([#2322](https://github.com/vinayakkulkarni/v-github-icon/issues/2322)) ([1403e4e](https://github.com/vinayakkulkarni/v-github-icon/commit/1403e4e56a45fbecf138603d7292aaa6de8a2ab7))
+* **deps-dev:** bump wrangler ([#2327](https://github.com/vinayakkulkarni/v-github-icon/issues/2327)) ([a9a7f20](https://github.com/vinayakkulkarni/v-github-icon/commit/a9a7f203b886daf23a785555cbda1835623ccd3e))
+
 ## [3.4.1](https://github.com/vinayakkulkarni/v-github-icon/compare/v3.4.0...v3.4.1) (2026-10-28)
 
 

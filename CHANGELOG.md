@@ -15,6 +15,27 @@
 
 
 
+## [3.4.2](https://github.com/vinayakkulkarni/v-github-icon/compare/v3.4.1...v3.4.2) (2026-11-12)
+
+
+### Bug Fixes
+
+* **deps:** bump the actions-minor group across 1 directory with 2 updates ([#2328](https://github.com/vinayakkulkarni/v-github-icon/issues/2328)) ([aa2e4b0](https://github.com/vinayakkulkarni/v-github-icon/commit/aa2e4b0279fbf9f24fef9ca3fab149d90937260a))
+* **deps:** bump vue ([#2332](https://github.com/vinayakkulkarni/v-github-icon/issues/2332)) ([5d0e092](https://github.com/vinayakkulkarni/v-github-icon/commit/5d0e0923bc9882df9f14439e2228c2981aec43c6))
+* **deps:** bump vue in /example in the npm-production group ([#2330](https://github.com/vinayakkulkarni/v-github-icon/issues/2330)) ([07a2ab4](https://github.com/vinayakkulkarni/v-github-icon/commit/07a2ab455317ef31c42dfbcc19ea446b6237001e))
+
+
+### Miscellaneous
+
+* **deps-dev:** bump the npm-development group with 2 updates ([#2325](https://github.com/vinayakkulkarni/v-github-icon/issues/2325)) ([6b083b1](https://github.com/vinayakkulkarni/v-github-icon/commit/6b083b1eee1ac875285c2fa0c49c8542bea4f3d5))
+* **deps-dev:** bump the npm-development group with 3 updates ([#2333](https://github.com/vinayakkulkarni/v-github-icon/issues/2333)) ([5e317b2](https://github.com/vinayakkulkarni/v-github-icon/commit/5e317b2867386760ba925030782e4b302c5eaf5e))
+* **deps-dev:** bump the npm-development group with 3 updates ([#2335](https://github.com/vinayakkulkarni/v-github-icon/issues/2335)) ([b69202f](https://github.com/vinayakkulkarni/v-github-icon/commit/b69202f5d16d65b644fb622f2597fbcd340c6a74))
+* **deps-dev:** bump the npm-development group with 4 updates ([#2324](https://github.com/vinayakkulkarni/v-github-icon/issues/2324)) ([327ba7b](https://github.com/vinayakkulkarni/v-github-icon/commit/327ba7ba52db0c983438a72f4bb660f85e3de75d))
+* **deps-dev:** bump the npm-development group with 6 updates ([#2331](https://github.com/vinayakkulkarni/v-github-icon/issues/2331)) ([96480b7](https://github.com/vinayakkulkarni/v-github-icon/commit/96480b74b3fea1b72398647d71a8f87418faf54d))
+* **deps-dev:** bump vite in /example in the npm-development group ([#2336](https://github.com/vinayakkulkarni/v-github-icon/issues/2336)) ([891c192](https://github.com/vinayakkulkarni/v-github-icon/commit/891c192344df6279094467bb3e6b0e4f14adb2d9))
+* **deps-dev:** bump wrangler ([#2322](https://github.com/vinayakkulkarni/v-github-icon/issues/2322)) ([1403e4e](https://github.com/vinayakkulkarni/v-github-icon/commit/1403e4e56a45fbecf138603d7292aaa6de8a2ab7))
+* **deps-dev:** bump wrangler ([#2327](https://github.com/vinayakkulkarni/v-github-icon/issues/2327)) ([a9a7f20](https://github.com/vinayakkulkarni/v-github-icon/commit/a9a7f203b886daf23a785555cbda1835623ccd3e))
+
 ## [3.4.1](https://github.com/vinayakkulkarni/v-github-icon/compare/v3.4.0...v3.4.1) (2026-10-28)
 
 
